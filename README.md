@@ -87,8 +87,8 @@ For any Doubts:
   
   sreenathbs97@gmail.com
   
-  [fb.com/sreenathbs](www.fb.com/sreenathbs)
+  [fb.com/sreenathbs](https://www.facebook.com/sreenathbs)
   
-  [twitter.com/sreenathbs](www.twitter.com/sreenathbs)
+  [twitter.com/sreenathbs](https://www.twitter.com/sreenathbs)
   
-  [linkedin.com/in/sreenathbs](www.linkedin.com/in/sreenathbs)
+  [linkedin.com/in/sreenathbs](https://www.linkedin.com/in/sreenathbs)
