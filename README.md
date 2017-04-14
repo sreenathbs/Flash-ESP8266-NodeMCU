@@ -5,7 +5,7 @@ See [Flashing Video](https://bit.ly/esp8266flashingvideo) here.
 
 All required files are available in this [repository](http://bit.ly/esp8266flash)
 
-##Contents
+## Contents
 
 1. [Get things Ready](https://github.com/sreenathbs/Flash-ESP8266-NodeMCU#get-things-ready)
 2. [Flasing ESP8266](https://github.com/sreenathbs/Flash-ESP8266-NodeMCU#flashing-process)
