@@ -1,24 +1,29 @@
 ## Flashing ESP8266 WiFi Development Module (NodeMCU)
 
-Go to [Flashing Tutorial](https://bit.ly/esp8266flashingtutorial) to learn how to flash ESP8266 WiFi Development Module (NodeMCU).
 
 See [Flashing Video](https://bit.ly/esp8266flashingvideo) here.
 
-All required files are available in this repository.
+All required files are available in this [repository](http://bit.ly/esp8266flash)
+
+##Contents
+
+1. [Get things Ready](https://github.com/sreenathbs/Flash-ESP8266-NodeMCU#get-things-ready)
+2. [Flasing ESP8266](https://github.com/sreenathbs/Flash-ESP8266-NodeMCU#flashing-process)
+3. [Building Custom Firmware](https://github.com/sreenathbs/Flash-ESP8266-NodeMCU#building-custom-firmware)
 
 
 
-### Get things Ready
+## Get things Ready
 
 Before we start, get things ready.
 
-  * ESP8266 WiFi Module (NodeMCU)
-  * NodeMCU Firmware Flasher
-  * NodeMCU Flash File
-  * ESPlorer (optional - to verify)
+  * [ESP8266 WiFi Module (NodeMCU)](http://bit.ly/esp8266wifi)
+  * [NodeMCU Firmware Flasher](http://bit.ly/esp8266flash)
+  * [NodeMCU Flash File](http://bit.ly/esp8266flash)
+  * [ESPlorer](http://bit.ly/esp8266flash) (optional - to verify)
   
 
-### Flashing Process
+## Flashing ESP8266
 
 Here we attempt to flash the device.
 
@@ -51,11 +56,11 @@ Here we attempt to flash the device.
 
   * ![7](https://image.ibb.co/iJriBQ/7.jpg)
   
-## The Flash file has been successfully written to your device :)
+### The Flash file has been successfully written to your device :)
 
 
 
-### Building Custom Firmware
+## Building Custom Firmware
 
 Use cloud services like NodeMCU Build to build your own customized Firmware.
 
