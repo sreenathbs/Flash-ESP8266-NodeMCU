@@ -31,7 +31,7 @@ Here we attempt to flash the device.
 
   * ![2](https://image.ibb.co/dN325k/2.jpg)
   
-3. Select NodeMCU Flash File in the Config tab.
+3. Select NodeMCU Flash File in the Config tab. (only if You are doing a custom Flash. Else leave this step.)
 
   * ![3](https://image.ibb.co/ee1YBQ/3.jpg)
   
